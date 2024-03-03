@@ -1,9 +1,9 @@
 function Header() {
-   return (
-      <div>
-            
-      </div>
-   );
+  return (
+    <h1>
+      🏝️Far Away🧳
+    </h1>
+  );
 }
 
 export default Header

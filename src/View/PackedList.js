@@ -1,4 +1,4 @@
-function Section({item, onChecked, onDelete}) {
+function PackedList({item, onChecked, onDelete}) {
 
   return (
     <>
@@ -12,4 +12,4 @@ function Section({item, onChecked, onDelete}) {
   );
 }
 
-export default Section
+export default PackedList
